@@ -1,5 +1,6 @@
 {
-  metric                   target       achieved    
+  {
+    metric                   target       achieved    
 ----------------------------------------------------
 counterfactual_mean_delta_pos -            0.0780      
 counterfactual_std_delta_pos -            0.1004      
@@ -48,6 +49,7 @@ counterfactual_focus_team_teams_neutral -            22.0000
 counterfactual_focus_team_dry_team_mean -            0.0006      
 counterfactual_focus_team_street_team_mean -            0.0000      
 counterfactual_focus_team_wet_team_mean -            0.0000      
+}
 {
   "counterfactual_mean_delta_pos": 0.0780299586776858,
   "counterfactual_std_delta_pos": 0.10042263727848315,
