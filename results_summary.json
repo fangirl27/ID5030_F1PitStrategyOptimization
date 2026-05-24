@@ -1,3 +1,102 @@
 {
-  "runtime_s": 883.8280885219574
+  {
+    metric                   target       achieved    
+----------------------------------------------------
+counterfactual_mean_delta_pos -            0.0780      
+counterfactual_std_delta_pos -            0.1004      
+counterfactual_median_delta_pos -            0.0557      
+counterfactual_races_positive -            5.0000      
+counterfactual_races_negative -            0.0000      
+counterfactual_races_neutral -            17.0000     
+counterfactual_dry_race_mean -            0.0780      
+counterfactual_street_circuit_mean -            0.0000      
+counterfactual_wet_race_mean -            0.0000      
+counterfactual_driver_mean_delta_pos -            0.0040      
+counterfactual_driver_std_delta_pos -            0.0137      
+counterfactual_driver_median_delta_pos -            0.0000      
+counterfactual_driver_drivers_positive -            2.0000      
+counterfactual_driver_drivers_negative -            0.0000      
+counterfactual_driver_drivers_neutral -            424.0000    
+counterfactual_driver_dry_driver_mean -            0.0040      
+counterfactual_driver_street_driver_mean -            0.0000      
+counterfactual_driver_wet_driver_mean -            0.0000      
+counterfactual_team_mean_delta_pos -            0.0078      
+counterfactual_team_std_delta_pos -            0.0211      
+counterfactual_team_median_delta_pos -            0.0000      
+counterfactual_team_teams_positive -            2.0000      
+counterfactual_team_teams_negative -            0.0000      
+counterfactual_team_teams_neutral -            217.0000    
+counterfactual_team_dry_team_mean -            0.0078      
+counterfactual_team_street_team_mean -            0.0000      
+counterfactual_team_wet_team_mean -            0.0000      
+counterfactual_focus_driver_focus_team -            Red Bull Racing
+counterfactual_focus_driver_mean_delta_pos -            0.0003      
+counterfactual_focus_driver_std_delta_pos -            0.0011      
+counterfactual_focus_driver_median_delta_pos -            0.0000      
+counterfactual_focus_driver_drivers_positive -            0.0000      
+counterfactual_focus_driver_drivers_negative -            0.0000      
+counterfactual_focus_driver_drivers_neutral -            43.0000     
+counterfactual_focus_driver_dry_driver_mean -            0.0003      
+counterfactual_focus_driver_street_driver_mean -            0.0000      
+counterfactual_focus_driver_wet_driver_mean -            0.0000      
+counterfactual_focus_team_focus_team -            Red Bull Racing
+counterfactual_focus_team_mean_delta_pos -            0.0006      
+counterfactual_focus_team_std_delta_pos -            0.0015      
+counterfactual_focus_team_median_delta_pos -            0.0000      
+counterfactual_focus_team_teams_positive -            0.0000      
+counterfactual_focus_team_teams_negative -            0.0000      
+counterfactual_focus_team_teams_neutral -            22.0000     
+counterfactual_focus_team_dry_team_mean -            0.0006      
+counterfactual_focus_team_street_team_mean -            0.0000      
+counterfactual_focus_team_wet_team_mean -            0.0000      
+}
+{
+  "counterfactual_mean_delta_pos": 0.0780299586776858,
+  "counterfactual_std_delta_pos": 0.10042263727848315,
+  "counterfactual_median_delta_pos": 0.05568750000000154,
+  "counterfactual_races_positive": 5,
+  "counterfactual_races_negative": 0,
+  "counterfactual_races_neutral": 17,
+  "counterfactual_dry_race_mean": 0.0780299586776858,
+  "counterfactual_street_circuit_mean": 0.0,
+  "counterfactual_wet_race_mean": 0.0,
+  "counterfactual_driver_mean_delta_pos": 0.00402971617584293,
+  "counterfactual_driver_std_delta_pos": 0.013747677020414843,
+  "counterfactual_driver_median_delta_pos": 0.0,
+  "counterfactual_driver_drivers_positive": 2,
+  "counterfactual_driver_drivers_negative": 0,
+  "counterfactual_driver_drivers_neutral": 424,
+  "counterfactual_driver_dry_driver_mean": 0.00402971617584293,
+  "counterfactual_driver_street_driver_mean": 0.0,
+  "counterfactual_driver_wet_driver_mean": 0.0,
+  "counterfactual_team_mean_delta_pos": 0.007838625985886248,
+  "counterfactual_team_std_delta_pos": 0.021111905185081548,
+  "counterfactual_team_median_delta_pos": 0.0,
+  "counterfactual_team_teams_positive": 2,
+  "counterfactual_team_teams_negative": 0,
+  "counterfactual_team_teams_neutral": 217,
+  "counterfactual_team_dry_team_mean": 0.007838625985886248,
+  "counterfactual_team_street_team_mean": 0.0,
+  "counterfactual_team_wet_team_mean": 0.0,
+  "counterfactual_focus_driver_focus_team": "Red Bull Racing",
+  "counterfactual_focus_driver_mean_delta_pos": 0.0003010042283298123,
+  "counterfactual_focus_driver_std_delta_pos": 0.001114615816242546,
+  "counterfactual_focus_driver_median_delta_pos": 0.0,
+  "counterfactual_focus_driver_drivers_positive": 0,
+  "counterfactual_focus_driver_drivers_negative": 0,
+  "counterfactual_focus_driver_drivers_neutral": 43,
+  "counterfactual_focus_driver_dry_driver_mean": 0.0003010042283298123,
+  "counterfactual_focus_driver_street_driver_mean": 0.0,
+  "counterfactual_focus_driver_wet_driver_mean": 0.0,
+  "counterfactual_focus_team_focus_team": "Red Bull Racing",
+  "counterfactual_focus_team_mean_delta_pos": 0.0005883264462809969,
+  "counterfactual_focus_team_std_delta_pos": 0.0015030722818588193,
+  "counterfactual_focus_team_median_delta_pos": 0.0,
+  "counterfactual_focus_team_teams_positive": 0,
+  "counterfactual_focus_team_teams_negative": 0,
+  "counterfactual_focus_team_teams_neutral": 22,
+  "counterfactual_focus_team_dry_team_mean": 0.0005883264462809969,
+  "counterfactual_focus_team_street_team_mean": 0.0,
+  "counterfactual_focus_team_wet_team_mean": 0.0
+}
 }
